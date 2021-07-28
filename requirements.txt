@@ -64,7 +64,7 @@ pyzmq==22.1.0
 requests==2.26.0
 Send2Trash==1.7.1
 six==1.16.0
-sklearn==0.0
+sklearn==0.24.2
 smmap==4.0.0
 streamlit==0.85.0
 terminado==0.10.1
